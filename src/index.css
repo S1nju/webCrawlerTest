@@ -1,0 +1,32 @@
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  width: 100%;
+  overflow-y: hidden;
+  height: 100dvh;
+ 
+}
+
+body {
+  margin: 0;
+  font-family: "Arial", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  background-color: royalblue;
+  font-style: normal;
+  text-transform: capitalize;
+ overflow-y: hidden;
+  
+}
+*{
+  box-sizing: border-box;
+ 
+}
+
+
+code {
+  font-family:"Montserrat", sans-serif,
+    monospace;
+}
